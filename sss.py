@@ -1,0 +1,1 @@
+print('omae ma wo mou shinderu')
